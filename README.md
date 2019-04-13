@@ -1,6 +1,6 @@
 # jump
 
-[demo jump](jump-demo.gif)
+![demo jump](jump-demo.gif)
 
 # Description
 
