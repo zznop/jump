@@ -15,10 +15,10 @@ download it at all).
 
 # Resources
 
-[Gens Kmod SEGA Emulator](https://segaretro.org/Gens_KMod)
-[GHIDRA SEGA Genesis ROM Loader](https://github.com/zznop/ghidra_scripts)
-[Binary Ninja 68000 Processor Module](https://github.com/alexforencich/binaryninja-m68k)
-[SEGA Megadrive/Genesis Documentation](https://segaretro.org/Category:Sega_Mega_Drive)
+* [Gens Kmod SEGA Emulator](https://segaretro.org/Gens_KMod)
+* [GHIDRA SEGA Genesis ROM Loader](https://github.com/zznop/ghidra_scripts)
+* [Binary Ninja 68000 Processor Module](https://github.com/alexforencich/binaryninja-m68k)
+* [SEGA Megadrive/Genesis Documentation](https://segaretro.org/Category:Sega_Mega_Drive)
 
 
 # License
