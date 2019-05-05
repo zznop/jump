@@ -2,6 +2,11 @@
 
 ![demo jump](jump-demo.gif)
 
+# Spoiler Alert!
+
+If you are here to download and do the CTF problem (without viewing the source code),
+download the jump.bin binary [here](bin/jump.bin)
+
 # Description
 
 Jump is a SEGA Genesis ROM capture the flag "crackme" with a Kriss Kross theme.

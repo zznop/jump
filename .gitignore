@@ -1,0 +1,3 @@
+*.swp
+.sconsign.dblite
+build
